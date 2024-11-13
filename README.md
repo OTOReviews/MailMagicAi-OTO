@@ -1,0 +1,2 @@
+# MailMagicAi-OTO
+MailMagicAi OTO
